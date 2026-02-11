@@ -13,13 +13,18 @@ These are resources either I've used and liked, or others recommended.
 
 ---
 
-## Bible / Literature / History
+## 🏛️ Bible History / Literature
 
-** Omnibus Primary**
+**[Omnibus Primary](https://veritaspress.com)**
  * Grade: 7-12 | Paid
+  https://veritaspress.com
   [Sample Text](https://store.veritaspress.com/search?custitem_gradelevelfacetordered=7th-Grade&custitem_subjectfacet=Omnibus-Primary&page=1)
  * Classical Christian curriculum that uses the "Great Books" of Western civilization to teach history, theology, and literature.
 
+**Sonlight Reading Lists**
+ * K–12 | Christian history + literature
+   https://www.sonlight.com/
+   
 ---
 
 ## English / Writing
@@ -73,15 +78,6 @@ These are resources either I've used and liked, or others recommended.
 
 **TypingClub** — Free (Gr 2+)
 [Typing Jungle](https://narrowwei.typingclub.com/signup/Z82FMUY)
-
----
-
-## 🏛️ History / Literature
-
-**Sonlight Reading List**
-
-* K–12 | Christian history + literature
-  https://www.sonlight.com/
 
 ---
 
