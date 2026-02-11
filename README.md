@@ -9,8 +9,7 @@ These are resources either I've used and liked, or others recommended.
 **Bible Study Fellowship (BSF)**
 
 * Age: 0–18 | Price: Free | In-person
-* Thu 10 AM — Western Hills Church, San Mateo
-  https://join.bsfinternational.org/class/736
+* Thu 10 AM — [Western Hills Church, San Mateo](https://join.bsfinternational.org/class/736)
 
 ---
 
@@ -25,42 +24,36 @@ These are resources either I've used and liked, or others recommended.
 
 ## ➗ Math
 
-**Art of Problem Solving (AoPS)**
+**[Art of Problem Solving (AoPS)](https://artofproblemsolving.com/school/course/prealgebra1)**
 
 * Grade: 5+ | $60 book / Free videos
-  https://artofproblemsolving.com/school/course/prealgebra1
 * Use Diagnostic placement tests to find the right course
 <img width="267" height="103" alt="image" src="https://github.com/user-attachments/assets/69b5cb49-caee-4f9e-8623-b09ccd382b27" />
 
-**Math Mammoth Videos**
+**Math Mammoth**
 
-* Grade: 1–8 | Free
-  https://www.mathmammoth.com/videos/
+* Grade: 1–8 | Free Videos
+  [https://www.mathmammoth.com](https://www.mathmammoth.com/videos/)
 
 ---
 
-## 智慧教育
+## [智慧教育](https://basic.smartedu.cn/syncClassroom)
 
 * 1-12年级 各科 | Free | 需国内手机验证码注册
-  https://basic.smartedu.cn/syncClassroom
-
-* 教材下载 | Free
-  https://github.com/TapXWorld/ChinaTextbook/tree/master/
+* [教材下载](https://github.com/TapXWorld/ChinaTextbook/tree/master/) | Free
+  
 
 ---
 
 ## ✍️ Handwriting
 
-**Bible Verse (TK–2)**
-https://shared.confessionsofahomeschooler.com/bible/K4MemoryVerseHandwriting.pdf
-
-**Print + Cursive**
-https://www.mansfieldschools.org/Downloads/Cursive%20-%20Handwriting_Practice2.pdf
+* [K4 Bible Memory Verses](https://shared.confessionsofahomeschooler.com/bible/K4MemoryVerseHandwriting.pdf) (Grade: TK–2)
+* [Print + Cursive](https://www.mansfieldschools.org/Downloads/Cursive%20-%20Handwriting_Practice2.pdf)
 
 **Tracing 描红**
 
-* English: https://www.worksheetworks.com/english/writing/handwriting.html
-* Chinese: https://www.an2.net/zi/
+* English: [worksheetworks.com](https://www.worksheetworks.com/english/writing/handwriting.html)
+* Chinese: [田字格生成器](https://www.an2.net/zi/)
 
 ---
 
