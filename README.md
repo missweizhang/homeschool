@@ -89,6 +89,10 @@ https://www.mansfieldschools.org/Downloads/Cursive%20-%20Handwriting_Practice2.p
 * Simply Charlotte Mason — https://simplycharlottemason.com/bookfinder/
 * Veritas Omnibus Classical Education — [https://veritaspress.com/](https://veritaspress.com/blog/omnibus-printable-book-list)
 
+**汉语**
+
+* [圣约语文](https://drive.google.com/drive/folders/1FD4cS-jp5aa7Rxs_Op-uXMNNXWmd1dq7) must request access
+
 **Missionary Biographies**
 
 * YWAM • Christian Heroes Then & Now
@@ -105,7 +109,11 @@ https://www.mansfieldschools.org/Downloads/Cursive%20-%20Handwriting_Practice2.p
 
 **Math:** 爱作业 App • [Google Lens](https://www.youtube.com/watch?v=lCkajkpAlwI&t=40s)
 
-**Writing:** [ChatGPT Grammar](https://chatgpt.com/g/g-kfkNLRrwD-grammar-checker)  / [Writing Assistant](https://chatgpt.com/g/g-Z7GlWKlJx-writing-assistant)
+**Writing:** [ChatGPT Grammar](https://chatgpt.com/g/g-kfkNLRrwD-grammar-checker)  • [Writing Assistant](https://chatgpt.com/g/g-Z7GlWKlJx-writing-assistant)
 
 
 ---
+
+## Other
+
+* [Let's Find Out](https://letsfindout.scholastic.com/issues/2024-25/030225.html) - pre-readers
