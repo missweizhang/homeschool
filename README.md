@@ -1,5 +1,5 @@
 # 📚 Homeschool Resources
-These are resources I've used and liked.
+These are resources either I've used and liked, or others recommended.
 *Last updated: 2026*
 
 ---
@@ -14,7 +14,7 @@ These are resources I've used and liked.
 
 ---
 
-## 🇬🇧 English / Writing
+## English / Writing
 
 **IEW – Structure & Style**
 
@@ -87,9 +87,7 @@ https://www.mansfieldschools.org/Downloads/Cursive%20-%20Handwriting_Practice2.p
 
 * Ambleside Online — https://www.amblesideonline.org/
 * Simply Charlotte Mason — https://simplycharlottemason.com/bookfinder/
-* Honey for a Child’s Heart — https://honeyforachildsheart.com/
-* Give Your Child the World — https://giveyourchildtheworld.com/
-* Read-Aloud Revival — https://readaloudrevival.com/booklist/
+* Veritas Omnibus Classical Education — [https://veritaspress.com/](https://veritaspress.com/blog/omnibus-printable-book-list)
 
 **Missionary Biographies**
 
@@ -105,15 +103,9 @@ https://www.mansfieldschools.org/Downloads/Cursive%20-%20Handwriting_Practice2.p
 
 ## ✅ Homework Grading Tools
 
-**Math:** 爱作业 App • Google Lens
-**Writing:** ChatGPT Grammar / Writing GPTs
+**Math:** 爱作业 App • [Google Lens](https://www.youtube.com/watch?v=lCkajkpAlwI&t=40s)
 
----
+**Writing:** [ChatGPT Grammar](https://chatgpt.com/g/g-kfkNLRrwD-grammar-checker)  / [Writing Assistant](https://chatgpt.com/g/g-Z7GlWKlJx-writing-assistant)
 
-### Tags
-
-Price: Free / Paid / Library
-Format: Video / Book / App / In-person
-Worldview: Christian / Secular
 
 ---
