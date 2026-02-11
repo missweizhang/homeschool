@@ -13,6 +13,15 @@ These are resources either I've used and liked, or others recommended.
 
 ---
 
+## Bible / Literature / History
+
+** Omnibus Primary**
+ * Grade: 7-12 | Paid
+  [Sample Text](https://store.veritaspress.com/search?custitem_gradelevelfacetordered=7th-Grade&custitem_subjectfacet=Omnibus-Primary&page=1)
+ * Classical Christian curriculum that uses the "Great Books" of Western civilization to teach history, theology, and literature.
+
+---
+
 ## English / Writing
 
 **IEW – Structure & Style**
